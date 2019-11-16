@@ -1,6 +1,11 @@
 
 Collision Avoidance Autonomous RC Car  
 
+![screenshot-www luminpdf com-2019 10 23-02_38_06 (1)](https://user-images.githubusercontent.com/54300496/69000709-d4fac480-0888-11ea-8ffa-15ec2d47c573.jpg)
+![screenshot-www luminpdf com-2019 10 23-02_38_06 (2)](https://user-images.githubusercontent.com/54300496/69000710-d9bf7880-0888-11ea-86b8-29a90b170d58.jpg)
+![screenshot-www luminpdf com-2019 10 23-02_38_06 (3)](https://user-images.githubusercontent.com/54300496/69000712-ddeb9600-0888-11ea-9ddb-a6a78b89707f.jpg)
+![screenshot-www luminpdf com-2019 10 23-02_38_06 (4)](https://user-images.githubusercontent.com/54300496/69000713-e2b04a00-0888-11ea-907c-45c9fc99a5e1.jpg)
+
 
 This is a RC car turned into a collision avoidence autonomous car. The car is controlled by an Arduino microcontroller. There are four ultra-sonic sensors placed on each side of the car. Using the data from the ultrasonic sensors, the car will adjust its course and travel to the side of the sensor with the furtherst distance an object. By default the car will travel straight untill it encouters an object. 
 
